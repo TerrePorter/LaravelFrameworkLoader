@@ -19,3 +19,23 @@ $app = new Wpb\Laravel_Framework_Loader\Application (
 );
 
 ```
+Update composer.json file.
+
+Add to require section
+```
+"require": {
+	"wpb/string-blade-compiler": "3.*@dev",
+}
+```
+
+Add git to repositories section
+```
+"scripts": { ... },
+"repositories": [ 
+	{
+		"name": "wpb/laravel_framework_loader",
+		"type": "git",
+		"url": "http://gitlab.nunya.lan/wpb/laravel_framework_loader.git"
+	}
+],
+```
