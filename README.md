@@ -35,7 +35,7 @@ Add git to repositories section
 	{
 		"name": "wpb/laravel_framework_loader",
 		"type": "git",
-		"url": "http://gitlab.nunya.lan/wpb/laravel_framework_loader.git"
+		"url": "https://github.com/TerrePorter/LaravelFrameworkLoader.git"
 	}
 ],
 ```
