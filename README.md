@@ -24,7 +24,7 @@ Update composer.json file.
 Add to require section
 ```
 "require": {
-	"wpb/string-blade-compiler": "3.*@dev",
+	"wpb/laravel_framework_loader": "1.*@dev",
 }
 ```
 
