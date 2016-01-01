@@ -1,0 +1,21 @@
+{
+    "name": "wpb/laravel_framework_loader",
+    "description": "Laravel Framework Loader",
+    "keywords": ["laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Terre Porter",
+            "email": "tporter@webpage-builders.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wpb\\Laravel_Framework_Loader\\": "src/"
+        } 
+    }
+}
+
