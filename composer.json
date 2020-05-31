@@ -14,8 +14,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Wpb\\Laravel_Framework_Loader\\": "src/"
-        } 
+            "Wpb\\LaravelFrameworkLoader\\": "src/"
+        }
     }
 }
 
